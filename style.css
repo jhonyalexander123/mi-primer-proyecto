@@ -1,0 +1,40 @@
+
+/*
+para darle color alos canpos por decirlo haci en la pagina 
+*/
+
+#title{
+    background-color: aliceblue;
+}
+
+.title{
+    background-color: black;
+}
+
+a{
+    background-color: blue;
+}
+
+body{
+    background-color: aqua;
+}
+
+.header{
+    width: 300px;
+    height: 72px;
+   background-color:chartreuse;
+   margin: 0%;
+   display: block;
+   justify-content: space-around;
+}
+
+.header nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+
